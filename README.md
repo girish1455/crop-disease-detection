@@ -59,4 +59,7 @@ The model is saved as .h5 or .keras, and class names are stored in class_names.j
 *Extra Tips
 first install all requriment.txt
 pip install -r requirements.txt
+
+python verison 3.8.0
+
  
