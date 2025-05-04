@@ -56,3 +56,7 @@ Fully connected dense layers
 Final softmax activation for multi-class classification
 
 The model is saved as .h5 or .keras, and class names are stored in class_names.json.
+*Extra Tips
+first install all requriment.txt
+pip install -r requirements.txt
+ 
