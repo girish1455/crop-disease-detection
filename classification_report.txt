@@ -1,0 +1,25 @@
+✅ Classification Report
+
+                             precision    recall  f1-score   support
+
+           Bacterial Blight       0.83      0.75      0.79        20
+         Corn___Common_Rust       0.99      1.00      0.99       238
+      Corn___Gray_Leaf_Spot       0.71      0.67      0.69       102
+             Corn___Healthy       0.99      1.00      1.00       232
+Corn___Northern_Leaf_Blight       0.81      0.87      0.84       197
+                    Healthy       0.78      0.35      0.48        20
+      Potato___Early_Blight       0.98      0.95      0.96       200
+           Potato___Healthy       1.00      0.60      0.75        30
+       Potato___Late_Blight       0.89      0.98      0.93       200
+                    Red Rot       0.00      0.00      0.00        20
+          Rice___Brown_Spot       1.00      0.17      0.29       122
+             Rice___Healthy       0.53      0.86      0.66       297
+          Rice___Leaf_Blast       0.40      0.24      0.30       195
+          Rice___Neck_Blast       0.99      0.95      0.97       200
+         Wheat___Brown_Rust       0.91      0.98      0.95       180
+            Wheat___Healthy       0.90      0.96      0.93       223
+        Wheat___Yellow_Rust       0.94      0.89      0.91       184
+
+                   accuracy                           0.83      2660
+                  macro avg       0.80      0.72      0.73      2660
+               weighted avg       0.84      0.83      0.81      2660
